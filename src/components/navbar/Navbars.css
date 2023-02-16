@@ -1,0 +1,14 @@
+.nav-link {
+  border-radius: 0 0 !important;
+  width: 7rem;
+  text-align: center;
+}
+
+.nav-link.active {
+  background-color: darkcyan !important;
+  border: none !important;
+}
+
+.nav-link:hover{
+    border: none;
+}
