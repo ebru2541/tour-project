@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Space+Mono:wght@700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  font-family: "Julee", cursive;
+}
+.nav {
+  border: none;
+}
 .nav-link {
   border-radius: 0 0 !important;
   width: 7rem;
@@ -5,10 +20,12 @@
 }
 
 .nav-link.active {
-  background-color: darkcyan !important;
+  background-color: transparent !important;
   border: none !important;
 }
 
-.nav-link:hover{
-    border: none;
+.nav-link:hover {
+  border: none !important;
+  background-color: darkcyan !important;
+  border: none !important;
 }
