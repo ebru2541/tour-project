@@ -29,7 +29,7 @@ SOLUTION
 ```
 
 ## Skills
-
+```
 - HTML
 
 - CSS
