@@ -40,6 +40,7 @@ SOLUTION
 
 -React-Bootstrap
 ```
+![tours](https://github.com/ebru2541/tour-project/blob/master/src/tour-project.gif)
 
 
 # https://tour-project-react-r.netlify.app/
