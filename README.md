@@ -38,6 +38,8 @@ SOLUTION
 
 - ReactJS
 
--Bootstrap
+-React-Bootstrap
+```
 
-https://tour-project-react-r.netlify.app/
+
+# https://tour-project-react-r.netlify.app/
