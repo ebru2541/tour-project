@@ -4,7 +4,7 @@
 Tour Project
 |
 |----readme.md
-SOLUTION
+
 ├── public
 │     └── index.html
 ├── src
